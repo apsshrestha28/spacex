@@ -1,0 +1,34 @@
+.image {
+  margin-left: 2rem;
+  background-image: url(./images/spacex.jpg);
+  background-size: cover;
+}
+
+.card {
+  margin: 3rem;
+  box-shadow: 10px 10px #9cafd1;
+  padding: 20px;
+  width: 30%;
+  text-align: justify;
+}
+
+.list {
+  list-style: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.img-size {
+  width: 60vw;
+  height: 78vh;
+}
+
+.display-content {
+  display: flex;
+}
+
+.heading-size {
+  font-size: 2rem;
+}
