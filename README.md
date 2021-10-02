@@ -6,6 +6,8 @@ Technologies : React, TypeScript, HTML, CSS, Material UI, Bootstrap, REST API
 
 API docs : https://github.com/r-spacex/SpaceX-API
 
+Netlify link : https://6158edb6161351d5703c9639--serene-montalcini-343500.netlify.app/
+
 ## Running on local
 
 npm start
