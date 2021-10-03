@@ -1,6 +1,7 @@
 ## Description
 
 SpaceX is a SPA(Single Page Application) for fetching details of SpaceX company and its rockets.
+Implemented pagination and integrated with third party REST API
 
 Technologies : React, TypeScript, HTML, CSS, Material UI, Bootstrap, REST API
 
